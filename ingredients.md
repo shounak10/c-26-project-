@@ -1,6 +1,6 @@
 ingredient to make a pizza 
-pizza base 
-cheeze
-sause
-chill flake
+#pizza base 
+#cheeze
+#sause
+#chill flake
 
